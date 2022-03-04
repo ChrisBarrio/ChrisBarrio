@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS / NodeJS**
 
-- 💬 Ask me about **css, html**
+- 💬 Ask me about **CSS, Html, Javascrypt**
 
 - 📫 How to reach me **ch.barrionuevo89@gmail.com**
 
