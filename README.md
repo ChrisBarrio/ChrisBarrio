@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS / NodeJS**
 
-- 🙋🏽‍♂️ I'm a Platzi student.
+- 🙋🏽‍♂️ I'm a Platzi Student 💚, never stop learning!!
 
 - 💬 Ask me about **CSS, Html, Javascrypt**
 
