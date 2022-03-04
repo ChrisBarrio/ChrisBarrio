@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **ReactJS / NodeJS**
 
+- 🙋🏽‍♂️ I'm a Platzi student.
+
 - 💬 Ask me about **CSS, Html, Javascrypt**
 
 - 📫 How to reach me **ch.barrionuevo89@gmail.com**
