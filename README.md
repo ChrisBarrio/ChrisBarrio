@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal blog**
 
-- 🌱 I’m currently learning **ReactJS / NodeJS**
+- 🌱 I’m currently learning **VueJS / NodeJS**
 
 - 🙋🏽‍♂️ I'm a Platzi Student 💚, never stop learning!!
 
