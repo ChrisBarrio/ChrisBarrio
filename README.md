@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **personal blog**
 
-- 🌱 I’m currently learning **VueJS / NodeJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 🙋🏽‍♂️ I'm a Platzi Student 💚, never stop learning!!
 
-- 💬 Ask me about **CSS, Html, Javascrypt**
+- 💬 Ask me about **CSS, Html, Javascrypt, React**
 
 - 📫 How to reach me **ch.barrionuevo89@gmail.com**
 
