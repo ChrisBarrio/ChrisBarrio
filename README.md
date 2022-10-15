@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **personal blog**
+- 🔭 I’m currently working on **freelance**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NextJs**
 
 - 🙋🏽‍♂️ I'm a Platzi Student 💚, never stop learning!!
 
-- 💬 Ask me about **CSS, Html, Javascrypt, React**
+- 💬 Ask me about **React, NextJs**
 
 - 📫 How to reach me **ch.barrionuevo89@gmail.com**
 
